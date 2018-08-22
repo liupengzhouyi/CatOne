@@ -1,0 +1,6 @@
+E:\Code\RiderProjects\ThreeCats\CatOne\CatOne\bin\Debug\CatOne.exe
+E:\Code\RiderProjects\ThreeCats\CatOne\CatOne\bin\Debug\CatOne.pdb
+E:\Code\RiderProjects\ThreeCats\CatOne\CatOne\obj\Debug\CatOne.csprojAssemblyReference.cache
+E:\Code\RiderProjects\ThreeCats\CatOne\CatOne\obj\Debug\CatOne.csproj.CoreCompileInputs.cache
+E:\Code\RiderProjects\ThreeCats\CatOne\CatOne\obj\Debug\CatOne.exe
+E:\Code\RiderProjects\ThreeCats\CatOne\CatOne\obj\Debug\CatOne.pdb
